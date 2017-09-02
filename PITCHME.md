@@ -1,5 +1,6 @@
-### Testing in Ionic: Configuring Existing Projects for Testing
 ---?image=images/ionic-logo-1024x576.jpg&size=auto 90%
+### Testing in Ionic: Configuring Existing Projects for Testing
+
 ---
 ## Testing
 Just shut up and do it!
