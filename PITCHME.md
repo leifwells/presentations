@@ -1,9 +1,7 @@
-<!-- $size: 16:9 -->
-<!-- footer: © Leif Wells 2017 -->
+---?image=images/ionic-logo-1024x576.jpg)
 # Testing in Ionic: Configuring Existing Projects for Testing
-## ![bg 100%](images/ionic-logo-1024x576.jpg)
+
 ---
-<!-- page_number: true -->
 # Testing
 Just shut up and do it!
 
