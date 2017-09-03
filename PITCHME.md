@@ -17,7 +17,3 @@ Just shut up and do it!
 - Creating an E2E Test
 
 ---
-# What This Presentation Will Not Discuss
-- How to Test _Your_ Code
-
----
