@@ -1,9 +1,6 @@
-/**
- * White theme for reveal.js. This is the opposite of the 'black' theme.
- *
- * By Hakim El Hattab, http://hakim.se
- */
- @import url(../../lib/font/source-sans-pro/source-sans-pro.css);
+
+ /* @import url(../../lib/font/source-sans-pro/source-sans-pro.css); */
+ @import url(../fonts/Source_Sans_Pro/source-sans-pro.css);
  section.has-dark-background, section.has-dark-background h1, section.has-dark-background h2, section.has-dark-background h3, section.has-dark-background h4, section.has-dark-background h5, section.has-dark-background h6 {
    color: #fff; }
  
@@ -11,8 +8,8 @@
   * GLOBAL STYLES
   *********************************************/
  body {
-   background: #999;
-   background-color: #999; }
+   background: #FFF;
+   background-color: #FFF; }
  
  .reveal {
    font-family: "Source Sans Pro", Helvetica, sans-serif;
