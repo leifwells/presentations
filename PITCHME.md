@@ -6,7 +6,7 @@
 #### H4 Header 4
 ---
 <!-- <section class='revunit-title'> -->
-<div class="revunit">
+<div class="reveal revunit">
 # FRESH AREA APP
 ## PRE-FLIGHT FINDINGS
 ### SAM'S CLUB
